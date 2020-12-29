@@ -6,7 +6,7 @@ AccessModifierOffset: -4
 #AlignConsecutiveDeclarations: true
 AlignConsecutiveMacros: true
 #AllowShortBlocksOnASingleLine: Never
-AllowShortFunctionsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
 BreakBeforeBraces: 'Custom'
 BraceWrapping:
   AfterClass: true
